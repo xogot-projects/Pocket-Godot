@@ -17,7 +17,7 @@ compatibility/default_parent_skeleton_in_mesh_instance_3d=true
 config/name="Pocket Godot"
 config/description="Android demo showcasing multiple controlles build for touch based devices"
 run/main_scene="res://scenes/menus/main_menu.tscn"
-config/features=PackedStringArray("4.6", "Mobile")
+config/features=PackedStringArray("4.7", "Mobile")
 config/icon="res://assets/icons/godot_white.png"
 
 [display]
